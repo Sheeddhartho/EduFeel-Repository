@@ -1,0 +1,14 @@
+{
+    "Heart": {
+        "keywords": ["heart", "cardiac", "pump", "circulatory system"],
+        "response": "The heart is a muscular organ responsible for pumping blood throughout the body."
+    },
+    "Lungs": {
+        "keywords": ["lungs", "respiratory", "oxygen", "breathing"],
+        "response": "The lungs are essential organs for breathing and gas exchange in the respiratory system."
+    },
+    "Brain": {
+        "keywords": ["brain", "nervous system", "neurons", "cognition"],
+        "response": "The brain is the control center of the nervous system, responsible for processing sensory information and controlling behavior."
+    }
+}
